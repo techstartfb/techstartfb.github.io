@@ -3,7 +3,7 @@ My project portfolio
 
 ### 360
 
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/hkaraouni/sally" ></script>
+<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/hkaraouni/james" ></script>
 
 Project Description
 
